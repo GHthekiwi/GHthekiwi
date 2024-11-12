@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GHthekiwi
+👋 Hi, I’m @GHthekiwi
 
 
 <!---
